@@ -1,0 +1,16 @@
+
+#main-nav ul a {
+	padding: 10px 25px;
+	display: block;
+	text-decoration: none;
+	color: black;
+}
+
+#main-nav ul a:hover {
+	background-color: #ccc;
+	color: white;
+	font-weight: bold;
+	color: black;
+	box-shadow: 2px 2px 2px 2px rgba(22, 33, 55, 1); 
+	border-radius: 5x;
+}
